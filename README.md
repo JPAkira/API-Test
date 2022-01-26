@@ -4,9 +4,9 @@
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [DJANGO REST FRAMEWORK](https://www.django-rest-framework.org/)
+* [DJANGO](https://docs.djangoproject.com/en/4.0/)
+* [PYTHON](https://docs.python.org/3/)
 
 
 
