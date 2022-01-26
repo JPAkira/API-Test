@@ -49,6 +49,11 @@ This is an example of how to list things you need to use the software and how to
    ```
    set user, email and password
 
+5. API URL
+   ```sh
+   curl -H "Content-Type: application/javascript" http://localhost:8000/employees/api/employee/
+   ```
+
 
 <!-- LICENSE -->
 ## License
