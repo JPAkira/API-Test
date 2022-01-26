@@ -22,7 +22,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   pip install django
   ```
-* Djando rest framework
+* Django rest framework
   ```sh
   pip install djangorestframework
   ```
