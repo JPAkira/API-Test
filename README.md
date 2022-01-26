@@ -35,9 +35,9 @@ This is an example of how to list things you need to use the software and how to
    django-admin startproject apiteste .
    python manage.py startapp employees
    ```
-3. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
+3. run migrates
+   ```sh
+   python manage.py migrate
    ```
 
 <!-- LICENSE -->
