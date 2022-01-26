@@ -43,10 +43,11 @@ This is an example of how to list things you need to use the software and how to
    python manage.py migrate
    ```
    
-3. create super user
+4. create super user
    ```sh
    python manage.py createsuperuser
    ```
+   set user, email and password
 
 
 <!-- LICENSE -->
