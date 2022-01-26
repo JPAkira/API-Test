@@ -32,21 +32,22 @@ Install requirements
    ```sh
    git clone git@github.com:JPAkira/API-Test.git
    ```
-2. start project and app
-   ```sh
-   django-admin startproject apiteste .
-   python manage.py startapp employees
-   ```
-3. run migrates
+   
+2. run migrates
    ```sh
    python manage.py migrate
    ```
    
-4. create super user
+3. create super user
    ```sh
    python manage.py createsuperuser
    ```
    set user, email and password
+   
+4. Run server
+   ```sh
+   python manage.py runserver
+   ```
 
 5. API URL
    ```sh
