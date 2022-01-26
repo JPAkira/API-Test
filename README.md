@@ -54,6 +54,11 @@ Install requirements
    curl -H "Content-Type: application/javascript" http://localhost:8000/employees/api/employee/
    ```
 
+6. Admin Site
+   ```sh
+   http://localhost:8000/admin
+   ```
+
 
 <!-- LICENSE -->
 ## License
